@@ -10,5 +10,8 @@ Used:
 -Nested Layouts
 -Grids
 -Flexboxes/Nested Flexboxes
--CSS Position (absolute and relative)
+-CSS Position (absolute, fixed, and relative)
+-Media Query
+-Semantic Elements
+-CSS Specificity
 etc.
